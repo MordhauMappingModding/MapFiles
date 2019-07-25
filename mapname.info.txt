@@ -1,0 +1,9 @@
+MapName (Can include spaces, readable name)
+FolderName (Specific name of the zip file on github and after extracting, generally also the filename.  Don't include .zip)
+MapDescription (Again, with spaces or whatever, newline determines each field)
+MapAuthor(s)
+MapVersion
+ReleaseDate
+UnzippedFileSize
+Optional: MaxPlayers (Set low for small maps)
+Optional: GameType (for future proofing) (Skip for now)
