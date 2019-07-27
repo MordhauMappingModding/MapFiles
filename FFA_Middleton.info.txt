@@ -1,0 +1,7 @@
+Middleton Deathmatch
+FFA_Middleton
+A deathmatch map including 3 areas : jousting, dueling, and FFA. 
+Squackety
+1.0
+26/07/2019
+16,4 Mo

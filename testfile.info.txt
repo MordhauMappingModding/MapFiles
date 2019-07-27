@@ -1,7 +1,7 @@
-Berzerker Arena
-BerzerkerArena
-A duelyard. The first community map ever created, as a proof of concept. https://google.com http://another.link then https://athird.link and yeah 
-PlouPlou
+Test file
+Testfile
+A description with several links. https://google.com http://another.link then https://athird.link and yeah 
+Tester
 1.0
 19/07/2019
 48 Mo
