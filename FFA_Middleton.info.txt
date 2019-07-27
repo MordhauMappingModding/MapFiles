@@ -1,6 +1,6 @@
 Middleton Deathmatch
 FFA_Middleton
-www.test.com/test
+http://www.test.com/test
 Squackety
 1.0
 26/07/2019
